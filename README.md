@@ -92,10 +92,6 @@ npm run dev     # Starts on port 3000
 
 Open http://localhost:3000
 
-### Default Admin Login
-- **Email:** admin@swachh.ai
-- **Password:** admin123
-
 ## API Endpoints
 
 | Method | Endpoint                    | Auth | Description              |
@@ -166,7 +162,6 @@ Copy the Render URL (e.g. `https://swachh-ai-api.onrender.com`)
    # In Render shell or locally pointing to production DB
    cd server && npm run seed
    ```
-3. Test login with admin@swachh.ai / admin123
 
 ---
 
