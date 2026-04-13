@@ -168,3 +168,5 @@ Copy the Render URL (e.g. `https://swachh-ai-api.onrender.com`)
 ## License
 
 MIT
+<img width="638" height="1063" alt="image" src="https://github.com/user-attachments/assets/299ac3c1-2499-4662-929a-fea88b6f5318" />
+
